@@ -1,1 +1,2 @@
 # blog
+simplikivyapp.comブログのソースコードです。
